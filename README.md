@@ -1,2 +1,2 @@
-# contador-flux-pizza
+# higher-order-component
 Created with CodeSandbox
